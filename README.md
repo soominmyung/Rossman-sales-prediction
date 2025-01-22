@@ -80,6 +80,9 @@ SHAP values provided insights into the contribution of each feature:
   - `DayOfWeek_5`: Lower sales on Fridays compared to Mondays.
 - SHAP analysis revealed unexpected relationships, such as the limited impact of state holidays and the negative effect of prolonged competition.
 
+![image](https://github.com/user-attachments/assets/65197056-024d-4828-a95c-4df7cd9b71e0)
+
+
 ---
 
 ## Limitations

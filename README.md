@@ -12,18 +12,6 @@ This project develops a sales prediction model for the Rossman drugstore chain. 
 
 ---
 
-## Table of Contents
-1. [Datasets](#datasets)
-2. [Data Preprocessing](#data-preprocessing)
-3. [Feature Engineering](#feature-engineering)
-4. [Prediction Models](#prediction-models)
-5. [Results and SHAP Analysis](#results-and-shap-analysis)
-6. [Limitations](#limitations)
-7. [Conclusion](#conclusion)
-8. [References](#references)
-
----
-
 ## Datasets
 
 Three datasets were used in this study:
